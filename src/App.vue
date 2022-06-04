@@ -1,9 +1,7 @@
-<script setup></script>
+<script setup>
+import App from './pages/todolist/App.vue'
+</script>
 
 <template>
-<h1>hai</h1>
+<App />
 </template>
-
-<style lang="scss">
-  @use '@/assets/scss/app.scss';
-</style>
